@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.1" xmlns:xsl="http://www.w3.org/1999/xsl/Transform">
-<!-- generated-on="2022-06-29T12:06:57+00:00" -->
-<!-- generator="XML Sitemap & Google News for WordPress" -->
-<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
-<!-- generator-version="5.3.3" -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
